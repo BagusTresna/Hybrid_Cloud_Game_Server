@@ -3,7 +3,7 @@
 > **Catatan:** Seluruh username, hostname, domain, alamat IP, dan token pada dokumentasi ini telah disamarkan. Nilai seperti `userlokal`, `vpsgateway`, `192.168.x.x`, `103.xxx.xxx.xxx`, dan `example.com` merupakan placeholder dan harus diganti dengan nilai sebenarnya saat konfigurasi.
 
 ## SSH Tunneling Architecture
-![Screenshot]()
+![SSH Reverse Tunneling Architecture](ssh-reverse-tunneling.png)
 
 ## Konfigurasi Server Lokal
 Mulai dengan menginstal `Pterodactyl Panel` dan `Wings` dengan script ini: 
